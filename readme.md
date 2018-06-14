@@ -1,0 +1,1 @@
+# AnimalApplication inheritence
